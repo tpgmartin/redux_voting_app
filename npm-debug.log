@@ -1,0 +1,386 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/Users/tmartin/.nvm/v0.10.40/bin/npm',
+1 verbose cli   'i',
+1 verbose cli   '-D',
+1 verbose cli   'babel-node' ]
+2 info using npm@2.14.14
+3 info using node@v0.10.40
+4 verbose install initial load of /Users/tmartin/Documents/_repos/redux_voting_app/package.json
+5 warn package.json redux_voting_app@0.0.1 No description
+6 warn package.json redux_voting_app@0.0.1 No repository field.
+7 warn package.json redux_voting_app@0.0.1 No README data
+8 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/amdefine/package.json
+9 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/ansi-regex/package.json
+10 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/ansi-styles/package.json
+11 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/anymatch/package.json
+12 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/arr-diff/package.json
+13 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/arr-flatten/package.json
+14 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/array-find-index/package.json
+15 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/array-uniq/package.json
+16 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/array-unique/package.json
+17 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/arrify/package.json
+18 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/asn1/package.json
+19 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/assert-plus/package.json
+20 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/assertion-error/package.json
+21 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/async/package.json
+22 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/async-each/package.json
+23 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/aws-sign2/package.json
+24 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/aws4/package.json
+25 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-cli/package.json
+26 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-code-frame/package.json
+27 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-core/package.json
+28 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-generator/package.json
+29 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-call-delegate/package.json
+30 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-define-map/package.json
+31 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-function-name/package.json
+32 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-get-function-arity/package.json
+33 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-hoist-variables/package.json
+34 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-optimise-call-expression/package.json
+35 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-regex/package.json
+36 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helper-replace-supers/package.json
+37 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-helpers/package.json
+38 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-messages/package.json
+39 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-check-es2015-constants/package.json
+40 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-syntax-async-functions/package.json
+41 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json
+42 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json
+43 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-block-scoping/package.json
+44 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-classes/package.json
+45 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-computed-properties/package.json
+46 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-destructuring/package.json
+47 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json
+48 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-for-of/package.json
+49 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-function-name/package.json
+50 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-literals/package.json
+51 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-modules-amd/package.json
+52 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json
+53 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json
+54 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-modules-umd/package.json
+55 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-object-super/package.json
+56 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-parameters/package.json
+57 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json
+58 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-spread/package.json
+59 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json
+60 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-template-literals/package.json
+61 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json
+62 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json
+63 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-regenerator/package.json
+64 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-plugin-transform-strict-mode/package.json
+65 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-polyfill/package.json
+66 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-preset-es2015/package.json
+67 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-register/package.json
+68 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-runtime/package.json
+69 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-template/package.json
+70 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-traverse/package.json
+71 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babel-types/package.json
+72 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/babylon/package.json
+73 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/balanced-match/package.json
+74 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/bin-version/package.json
+75 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/bin-version-check/package.json
+76 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/binary-extensions/package.json
+77 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/bl/package.json
+78 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/boom/package.json
+79 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/brace-expansion/package.json
+80 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/braces/package.json
+81 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/browser-stdout/package.json
+82 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/buffer-shims/package.json
+83 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/builtin-modules/package.json
+84 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/camelcase/package.json
+85 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/camelcase-keys/package.json
+86 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/caseless/package.json
+87 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/chai/package.json
+88 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/chai-immutable/package.json
+89 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/chalk/package.json
+90 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/chokidar/package.json
+91 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/combined-stream/package.json
+92 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/commander/package.json
+93 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/concat-map/package.json
+94 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/convert-source-map/package.json
+95 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/core-js/package.json
+96 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/core-util-is/package.json
+97 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/cryptiles/package.json
+98 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/currently-unhandled/package.json
+99 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/dashdash/package.json
+100 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/debug/package.json
+101 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/decamelize/package.json
+102 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/deep-eql/package.json
+103 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/delayed-stream/package.json
+104 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/detect-indent/package.json
+105 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/diff/package.json
+106 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/ecc-jsbn/package.json
+107 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/error-ex/package.json
+108 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/escape-string-regexp/package.json
+109 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/esutils/package.json
+110 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/expand-brackets/package.json
+111 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/expand-range/package.json
+112 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/extend/package.json
+113 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/extglob/package.json
+114 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/extsprintf/package.json
+115 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/filename-regex/package.json
+116 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/fill-range/package.json
+117 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/find-up/package.json
+118 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/find-versions/package.json
+119 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/for-in/package.json
+120 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/for-own/package.json
+121 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/forever-agent/package.json
+122 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/form-data/package.json
+123 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/fs-readdir-recursive/package.json
+124 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/fs.realpath/package.json
+125 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/fsevents/package.json
+126 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/generate-function/package.json
+127 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/generate-object-property/package.json
+128 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/get-stdin/package.json
+129 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/getpass/package.json
+130 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/glob/package.json
+131 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/glob-base/package.json
+132 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/glob-parent/package.json
+133 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/globals/package.json
+134 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/graceful-fs/package.json
+135 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/graceful-readlink/package.json
+136 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/growl/package.json
+137 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/har-validator/package.json
+138 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/has-ansi/package.json
+139 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/has-flag/package.json
+140 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/hawk/package.json
+141 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/hoek/package.json
+142 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/home-or-tmp/package.json
+143 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/hosted-git-info/package.json
+144 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/http-signature/package.json
+145 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/immutable/package.json
+146 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/indent-string/package.json
+147 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/inflight/package.json
+148 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/inherits/package.json
+149 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/invariant/package.json
+150 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-arrayish/package.json
+151 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-binary-path/package.json
+152 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-buffer/package.json
+153 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-builtin-module/package.json
+154 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-dotfile/package.json
+155 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-equal-shallow/package.json
+156 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-extendable/package.json
+157 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-extglob/package.json
+158 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-finite/package.json
+159 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-glob/package.json
+160 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-my-json-valid/package.json
+161 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-number/package.json
+162 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-posix-bracket/package.json
+163 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-primitive/package.json
+164 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-property/package.json
+165 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-typedarray/package.json
+166 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/is-utf8/package.json
+167 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/isarray/package.json
+168 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/isobject/package.json
+169 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/isstream/package.json
+170 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/jodid25519/package.json
+171 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/js-tokens/package.json
+172 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/jsbn/package.json
+173 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/jsesc/package.json
+174 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/json-schema/package.json
+175 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/json-stringify-safe/package.json
+176 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/json3/package.json
+177 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/json5/package.json
+178 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/jsonpointer/package.json
+179 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/jsprim/package.json
+180 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/kind-of/package.json
+181 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/load-json-file/package.json
+182 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash/package.json
+183 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash._baseassign/package.json
+184 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash._basecopy/package.json
+185 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash._basecreate/package.json
+186 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash._getnative/package.json
+187 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash._isiterateecall/package.json
+188 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash.create/package.json
+189 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash.isarguments/package.json
+190 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash.isarray/package.json
+191 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/lodash.keys/package.json
+192 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/log-symbols/package.json
+193 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/loose-envify/package.json
+194 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/loud-rejection/package.json
+195 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/map-obj/package.json
+196 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/meow/package.json
+197 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/micromatch/package.json
+198 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/mime-db/package.json
+199 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/mime-types/package.json
+200 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/minimatch/package.json
+201 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/minimist/package.json
+202 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/mkdirp/package.json
+203 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/mocha/package.json
+204 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/ms/package.json
+205 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/nan/package.json
+206 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/node-uuid/package.json
+207 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/normalize-package-data/package.json
+208 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/normalize-path/package.json
+209 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/number-is-nan/package.json
+210 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/oauth-sign/package.json
+211 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/object-assign/package.json
+212 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/object.omit/package.json
+213 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/once/package.json
+214 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/os-tmpdir/package.json
+215 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/output-file-sync/package.json
+216 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/parse-glob/package.json
+217 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/parse-json/package.json
+218 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/path-exists/package.json
+219 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/path-is-absolute/package.json
+220 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/path-type/package.json
+221 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/pify/package.json
+222 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/pinkie/package.json
+223 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/pinkie-promise/package.json
+224 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/preserve/package.json
+225 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/private/package.json
+226 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/process-nextick-args/package.json
+227 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/qs/package.json
+228 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/randomatic/package.json
+229 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/read-pkg/package.json
+230 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/read-pkg-up/package.json
+231 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/readable-stream/package.json
+232 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/readdirp/package.json
+233 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/redent/package.json
+234 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/redux/package.json
+235 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/regenerate/package.json
+236 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/regenerator-runtime/package.json
+237 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/regex-cache/package.json
+238 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/regexpu-core/package.json
+239 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/regjsgen/package.json
+240 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/regjsparser/package.json
+241 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/repeat-element/package.json
+242 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/repeat-string/package.json
+243 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/repeating/package.json
+244 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/request/package.json
+245 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/semver/package.json
+246 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/semver-regex/package.json
+247 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/semver-truncate/package.json
+248 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/set-immediate-shim/package.json
+249 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/shebang-regex/package.json
+250 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/signal-exit/package.json
+251 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/slash/package.json
+252 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/sntp/package.json
+253 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/socket.io/package.json
+254 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/source-map/package.json
+255 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/source-map-support/package.json
+256 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/spdx-correct/package.json
+257 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/spdx-exceptions/package.json
+258 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/spdx-expression-parse/package.json
+259 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/spdx-license-ids/package.json
+260 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/sshpk/package.json
+261 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/string_decoder/package.json
+262 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/stringstream/package.json
+263 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/strip-ansi/package.json
+264 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/strip-bom/package.json
+265 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/strip-indent/package.json
+266 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/supports-color/package.json
+267 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/to-fast-properties/package.json
+268 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/tough-cookie/package.json
+269 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/trim-newlines/package.json
+270 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/tunnel-agent/package.json
+271 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/tweetnacl/package.json
+272 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/type-detect/package.json
+273 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/user-home/package.json
+274 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/util-deprecate/package.json
+275 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/v8flags/package.json
+276 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/validate-npm-package-license/package.json
+277 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/verror/package.json
+278 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/wrappy/package.json
+279 verbose installManyTop reading scoped package data from /Users/tmartin/Documents/_repos/redux_voting_app/node_modules/xtend/package.json
+280 info package.json arr-flatten@1.0.1 license should be a valid SPDX license expression
+281 info package.json array-unique@0.2.1 license should be a valid SPDX license expression
+282 info package.json babel-plugin-transform-regenerator@6.11.4 license should be a valid SPDX license expression
+283 info package.json babel-traverse@6.13.0 No description
+284 info package.json diff@1.4.0 No license field.
+285 info package.json esutils@2.0.2 No license field.
+286 info package.json extsprintf@1.0.2 No license field.
+287 info package.json filename-regex@2.0.0 license should be a valid SPDX license expression
+288 info package.json glob-base@0.3.0 license should be a valid SPDX license expression
+289 info package.json is-primitive@2.0.0 license should be a valid SPDX license expression
+290 info package.json jsbn@0.1.0 license should be a valid SPDX license expression
+291 info package.json jsesc@0.5.0 No license field.
+292 info package.json json-schema@0.2.2 No license field.
+293 info package.json json3@3.3.2 No license field.
+294 info package.json ms@0.7.1 No license field.
+295 info package.json node-uuid@1.4.7 No license field.
+296 info package.json preserve@0.2.0 license should be a valid SPDX license expression
+297 info package.json regjsparser@0.1.5 license should be a valid SPDX license expression
+298 info package.json repeat-element@1.1.2 license should be a valid SPDX license expression
+299 info package.json sntp@1.0.9 No license field.
+300 info package.json source-map-support@0.2.10 No license field.
+301 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+302 info package.json tweetnacl@0.13.3 license should be a valid SPDX license expression
+303 info package.json v8flags@2.0.11 No license field.
+304 info package.json verror@1.3.6 No license field.
+305 verbose readDependencies loading dependencies from /Users/tmartin/Documents/_repos/redux_voting_app/package.json
+306 silly cache add args [ 'babel-node', null ]
+307 verbose cache add spec babel-node
+308 silly cache add parsed spec { raw: 'babel-node',
+308 silly cache add   scope: null,
+308 silly cache add   name: 'babel-node',
+308 silly cache add   rawSpec: '',
+308 silly cache add   spec: 'latest',
+308 silly cache add   type: 'tag' }
+309 silly addNamed babel-node@latest
+310 verbose addNamed "latest" is being treated as a dist-tag for babel-node
+311 info addNameTag [ 'babel-node', 'latest' ]
+312 silly mapToRegistry name babel-node
+313 silly mapToRegistry using default registry
+314 silly mapToRegistry registry https://registry.npmjs.org/
+315 silly mapToRegistry uri https://registry.npmjs.org/babel-node
+316 verbose addNameTag registry:https://registry.npmjs.org/babel-node not in flight; fetching
+317 verbose request uri https://registry.npmjs.org/babel-node
+318 verbose request no auth needed
+319 info attempt registry request try #1 at 22:59:24
+320 verbose request using bearer token for auth
+321 verbose request id 850b24eb7c65609c
+322 http request GET https://registry.npmjs.org/babel-node
+323 http 404 https://registry.npmjs.org/babel-node
+324 verbose headers { 'content-type': 'application/json',
+324 verbose headers   'cache-control': 'max-age=0',
+324 verbose headers   'content-length': '2',
+324 verbose headers   'accept-ranges': 'bytes',
+324 verbose headers   date: 'Mon, 15 Aug 2016 21:59:25 GMT',
+324 verbose headers   via: '1.1 varnish',
+324 verbose headers   connection: 'keep-alive',
+324 verbose headers   'x-served-by': 'cache-lcy1130-LCY',
+324 verbose headers   'x-cache': 'MISS',
+324 verbose headers   'x-cache-hits': '0',
+324 verbose headers   'x-timer': 'S1471298364.303435,VS0,VE718',
+324 verbose headers   vary: 'Accept-Encoding' }
+325 silly get cb [ 404,
+325 silly get   { 'content-type': 'application/json',
+325 silly get     'cache-control': 'max-age=0',
+325 silly get     'content-length': '2',
+325 silly get     'accept-ranges': 'bytes',
+325 silly get     date: 'Mon, 15 Aug 2016 21:59:25 GMT',
+325 silly get     via: '1.1 varnish',
+325 silly get     connection: 'keep-alive',
+325 silly get     'x-served-by': 'cache-lcy1130-LCY',
+325 silly get     'x-cache': 'MISS',
+325 silly get     'x-cache-hits': '0',
+325 silly get     'x-timer': 'S1471298364.303435,VS0,VE718',
+325 silly get     vary: 'Accept-Encoding' } ]
+326 verbose stack Error: Registry returned 404 for GET on https://registry.npmjs.org/babel-node
+326 verbose stack     at makeError (/Users/tmartin/.nvm/v0.10.40/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:264:12)
+326 verbose stack     at CachingRegistryClient.<anonymous> (/Users/tmartin/.nvm/v0.10.40/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:242:14)
+326 verbose stack     at Request._callback (/Users/tmartin/.nvm/v0.10.40/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:172:14)
+326 verbose stack     at Request.self.callback (/Users/tmartin/.nvm/v0.10.40/lib/node_modules/npm/node_modules/request/request.js:198:22)
+326 verbose stack     at Request.emit (events.js:98:17)
+326 verbose stack     at Request.<anonymous> (/Users/tmartin/.nvm/v0.10.40/lib/node_modules/npm/node_modules/request/request.js:1082:10)
+326 verbose stack     at Request.emit (events.js:117:20)
+326 verbose stack     at IncomingMessage.<anonymous> (/Users/tmartin/.nvm/v0.10.40/lib/node_modules/npm/node_modules/request/request.js:1009:12)
+326 verbose stack     at IncomingMessage.emit (events.js:117:20)
+326 verbose stack     at _stream_readable.js:944:16
+327 verbose statusCode 404
+328 verbose pkgid babel-node
+329 verbose cwd /Users/tmartin/Documents/_repos/redux_voting_app
+330 error Darwin 15.0.0
+331 error argv "node" "/Users/tmartin/.nvm/v0.10.40/bin/npm" "i" "-D" "babel-node"
+332 error node v0.10.40
+333 error npm  v2.14.14
+334 error code E404
+335 error 404 Registry returned 404 for GET on https://registry.npmjs.org/babel-node
+335 error 404
+335 error 404 'babel-node' is not in the npm registry.
+335 error 404 You should bug the author to publish it (or use the name yourself!)
+335 error 404 It was specified as a dependency of 'redux_voting_app'
+335 error 404
+335 error 404 Note that you can also install from a
+335 error 404 tarball, folder, http url, or git url.
+336 verbose exit [ 1, true ]
